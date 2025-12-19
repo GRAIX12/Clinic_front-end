@@ -236,7 +236,6 @@ export default function AppointmentsPage() {
         </div>
 
         <p className="small" style={{ marginTop: 10 }}>
-          The API populates <code>patientId</code> and <code>doctorId</code> on GET endpoints. On create/update you send their IDs.
         </p>
       </div>
     </div>

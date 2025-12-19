@@ -25,7 +25,6 @@ export default function Dashboard() {
     <div className="card">
       <h2 style={{ marginTop: 0 }}>Dashboard</h2>
       <p className="small">
-        Configure the backend URL via <code>VITE_API_BASE_URL</code> (defaults to <code>http://localhost:3000/api</code>).
       </p>
       {error && <div className="error">{error}</div>}
       {!counts ? (

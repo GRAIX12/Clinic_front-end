@@ -184,7 +184,6 @@ export default function PatientsPage() {
         </div>
 
         <p className="small" style={{ marginTop: 10 }}>
-          Backend validation: patient requires <code>name</code>, <code>birthDate</code>, <code>email</code>. Email must be unique.
         </p>
       </div>
     </div>

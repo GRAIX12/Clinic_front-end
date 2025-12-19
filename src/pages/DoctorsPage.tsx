@@ -154,7 +154,6 @@ export default function DoctorsPage() {
         </div>
 
         <p className="small" style={{ marginTop: 10 }}>
-          Backend validation: doctor requires <code>name</code>. <code>specialty</code> is optional.
         </p>
       </div>
     </div>
